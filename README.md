@@ -25,15 +25,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Dev0Valley/QR-Code-Component-Main)
+- [Live Site URL](https://dev0valley.github.io/QR-Code-Component-Main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- Without media queries
 
 
